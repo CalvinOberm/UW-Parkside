@@ -1,2 +1,2 @@
-# Canvas
-Some random scripts for enumerating and using canvas via the Canvas API
+# UW-Parkside
+Some miscellaneous resources from my time at University of Wisconsin-Parkside
